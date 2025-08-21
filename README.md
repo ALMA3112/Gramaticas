@@ -1,2 +1,2 @@
 # Gramaticas
-- Carlos Alberto CArdona Pulido
+- Carlos Alberto Cardona Pulido
